@@ -1,0 +1,6 @@
+c:\users\raeed\documents\visual studio 2015\Projects\__IPG101\__IPG101\bin\Debug\__IPG101.exe.config
+c:\users\raeed\documents\visual studio 2015\Projects\__IPG101\__IPG101\bin\Debug\__IPG101.exe
+c:\users\raeed\documents\visual studio 2015\Projects\__IPG101\__IPG101\bin\Debug\__IPG101.pdb
+c:\users\raeed\documents\visual studio 2015\Projects\__IPG101\__IPG101\obj\Debug\__IPG101.csprojResolveAssemblyReference.cache
+c:\users\raeed\documents\visual studio 2015\Projects\__IPG101\__IPG101\obj\Debug\__IPG101.exe
+c:\users\raeed\documents\visual studio 2015\Projects\__IPG101\__IPG101\obj\Debug\__IPG101.pdb
